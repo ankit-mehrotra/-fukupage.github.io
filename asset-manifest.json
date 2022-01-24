@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ankit-mehrotra/-fukupage.github.io.git/static/css/main.fa5a50ca.css",
+    "main.js": "/ankit-mehrotra/-fukupage.github.io.git/static/js/main.aa805d8e.js",
+    "static/js/787.125e354e.chunk.js": "/ankit-mehrotra/-fukupage.github.io.git/static/js/787.125e354e.chunk.js",
+    "static/media/fuku.jpg": "/ankit-mehrotra/-fukupage.github.io.git/static/media/fuku.a238deb38069f107a1b0.jpg",
+    "index.html": "/ankit-mehrotra/-fukupage.github.io.git/index.html",
+    "main.fa5a50ca.css.map": "/ankit-mehrotra/-fukupage.github.io.git/static/css/main.fa5a50ca.css.map",
+    "main.aa805d8e.js.map": "/ankit-mehrotra/-fukupage.github.io.git/static/js/main.aa805d8e.js.map",
+    "787.125e354e.chunk.js.map": "/ankit-mehrotra/-fukupage.github.io.git/static/js/787.125e354e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa5a50ca.css",
+    "static/js/main.aa805d8e.js"
+  ]
+}
