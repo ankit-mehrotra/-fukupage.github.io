@@ -1,8 +1,8 @@
 {
-  "name": "react-hook-1",
+  "name": "fuku",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ankit-mehrotra.github.io/fuku",
+  "homepage": "https://frooti.xyz",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
