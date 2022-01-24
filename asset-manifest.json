@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/fuku/static/css/main.fa5a50ca.css",
-    "main.js": "/fuku/static/js/main.11d43c7f.js",
-    "static/js/787.5326af1b.chunk.js": "/fuku/static/js/787.5326af1b.chunk.js",
-    "static/media/fuku.jpg": "/fuku/static/media/fuku.a238deb38069f107a1b0.jpg",
-    "index.html": "/fuku/index.html",
-    "main.fa5a50ca.css.map": "/fuku/static/css/main.fa5a50ca.css.map",
-    "main.11d43c7f.js.map": "/fuku/static/js/main.11d43c7f.js.map",
-    "787.5326af1b.chunk.js.map": "/fuku/static/js/787.5326af1b.chunk.js.map"
+    "main.css": "/static/css/main.fa5a50ca.css",
+    "main.js": "/static/js/main.1d8f62c6.js",
+    "static/js/787.5326af1b.chunk.js": "/static/js/787.5326af1b.chunk.js",
+    "static/media/fuku.jpg": "/static/media/fuku.a238deb38069f107a1b0.jpg",
+    "index.html": "/index.html",
+    "main.fa5a50ca.css.map": "/static/css/main.fa5a50ca.css.map",
+    "main.1d8f62c6.js.map": "/static/js/main.1d8f62c6.js.map",
+    "787.5326af1b.chunk.js.map": "/static/js/787.5326af1b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa5a50ca.css",
-    "static/js/main.11d43c7f.js"
+    "static/js/main.1d8f62c6.js"
   ]
 }
